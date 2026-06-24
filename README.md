@@ -1,54 +1,43 @@
-# Yo👋
+<div align="center">
 
-**Just a CS Undergrad**
+# Yo👋.
 
-I am a computer science engineering undergrad and my main focus rn is bridging the gap between pure software logic and scalable business systems. Operating at the intersection of engineering precision and creative research, I specialize in full-stack software production, hardware-software integration, and designing highly optimized, automated workflows.
+### Just a CS Undergrad explaoring this real, open world
 
----
+Coding isn't what I do; designing the logic _behind_ the logic is my job. The bulk of my efforts revolves around filling the void between _"Works on my machine"_ and **A fully functionioning application that real people can use daily**
 
-## 🚀 About Me
+## _What I do?_
 
-*   **Architecting Systems:** Passionate about building centralized, dashboard-driven databases and designing robust business systems from the ground up.
-*   **Hardware Meets Software:** Deeply interested in electronics, circuit design, and microcontrollers, connecting low-level hardware constraints with high-level software abstractions.
-*   **Continuous Optimization:** A strong advocate for cognitive metalearning and metacognition—constantly refining the *way* I learn to rapidly digest complex technical concepts.
-*   **Current Mission:** Executing a rigorous 6-month strategic roadmap focused on mastering full-stack production and pure software logic.
+- **System design is where I thrive**
+- **Hardware is merely code .**
+- \*\*Security analysis and modal integration
 
----
+  \*\*
 
-## 💻 Technical Arsenal
+## _My philosophy_
 
-### Languages & Logic
-*   **C++** (Specializing in memory management, namespaces, and regex)
-*   **R** (Data analysis and statistical computing)
-*   **Core Software Logic** (Algorithm optimization and system architecture)
-
-### Hardware & Embedded Systems
-*   **Microcontrollers:** ESP32 (WROOM, S2, NodeMCU), SN74HC393N ICs
-*   **Electronics:** Custom circuit schematic design, VCC/GND grid structuring
-
-### Security & Operating Systems
-*   **OS:** Kali Linux
-*   **Security:** Encrypted LUKS persistence configuration for live environments
-
-### APIs & Automations
-*   **Workspace Architecture:** Advanced Notion API integrations
-*   **Data Flow:** Centralized relational databases and automated business pipelines
+> _Metacognition is where I grow as a person. Overclocking my brain is the name of the game & I believe Engineering isn't just Ctrl+C Ctrl+V the code, **it's designing systems the understands and controls various parameters and sloves a real world problem**_
 
 ---
 
-## 🧠 What I'm Currently Working On
+<img src="https://github-readme-stats.vercel.app/api?username=rvp007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rvp007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-*   **Freelance & Academic Infrastructure:** Developing a dual-dashboard "cockpit" system to strictly compartmentalize and manage academic study workflows alongside freelance business operations.
-*   **Embedded Development:** Mapping and prototyping ESP32 pinouts for advanced hardware projects.
-*   **System Hardening:** Refining portable, secure, and persistent Linux environments for ethical hacking and development on the go.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvp007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
----
-
-## ⚡ Philosophy
-
-> *"Engineering is not just about writing code; it's about designing the dashboards that control the logic."* 
-
-I thrive on precise, elaborative problem-solving. Whether it's mapping a complex circuit schematic or architecting a database, I approach engineering as a researcher with a creative mind—seeking the most efficient, logical, and elegant solution possible.
+![Profile Views](https://komarev.com/ghpvc/?username=rvp007&color=58A6FF&style=flat-square&label=profile+views)
+![GitHub followers](https://img.shields.io/github/followers/rvp007?style=flat-square&color=58A6FF&label=followers)
 
 ---
-📫 **Let's Connect:** [Insert LinkedIn/Portfolio Link] | ✉️ **Contact:** [Insert Email]
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh-vp007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rvp007.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshvp.ecs25@chanakyauniversity.edu.in)
+
+`</div>`
+
+<div align="center">
+<sub>currently compiling...  check back after the next build</sub>
+</div>
