@@ -16,13 +16,6 @@ Coding isn't what I do; designing the logic _behind_ the logic is my job. The bu
 
 > _Metacognition is where I grow as a person. Overclocking my brain is the name of the game & I believe Engineering isn't just Ctrl+C Ctrl+V the code, **it's designing systems the understands and control various parameters and solve a real-world problem**_
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=rvp007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=rvp007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvp007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rvp007&color=58A6FF&style=flat-square&label=profile+views)![GitHub followers](https://img.shields.io/github/followers/rvp007?style=flat-square&color=58A6FF&label=followers)
 
 ---
 
