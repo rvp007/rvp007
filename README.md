@@ -25,7 +25,7 @@
 
 ---
 <div align = "center">
-> **"A jack of all trades is a master of none, but oftentimes better than a master of one."**
+<sub>**"A jack of all trades is a master of none, but oftentimes better than a master of one."**</sub> 
 </div>
 <div align="center">
 <sub>currently compiling...  check back after the next build</sub>
