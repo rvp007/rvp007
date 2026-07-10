@@ -6,7 +6,7 @@
 
 ## _What do I do?_
 
-- **Software & Systems:** Designing centralized, automated architectures and mastering full stack software production.
+- **Software & Systems:** Designing centralized, automated architectures and mastering full-stack software production.
 - **Information Security:** Actively building a foundation in InfoSec.
 - **Hardware Integration:** Prototyping with microcontrollers and custom circuit designs to connect low level hardware with high level code.
 
@@ -14,7 +14,7 @@
 
 ## _My philosophy_
 
-> _Metacognition is where I grow as a person. Overclocking my brain is the name of the game & I believe Engineering isn't just Ctrl+C Ctrl+V the code, **it's designing systems that understands and control various parameters and solve a real-world problem**_
+> _Metacognition is where I grow as a person. Overclocking my brain is the name of the game & I believe Engineering isn't just Ctrl+C Ctrl+V the code, **it's designing systems that understand and control various parameters and solve a real-world problem**_
 
 
 ## Let's Connect
@@ -24,7 +24,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshvp.ecs25@chanakyauniversity.edu.in)
 
 ---
+<div align = "center">
 > **"A jack of all trades is a master of none, but oftentimes better than a master of one."**
+</div>
 <div align="center">
 <sub>currently compiling...  check back after the next build</sub>
 </div>
